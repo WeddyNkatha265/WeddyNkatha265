@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [DevOps-Projects](https://github.com/WeddyNkatha265/DevOps-Projects)
 
-- 🌱 I’m currently learning **IBM DevOps and Software Engineering Professional Certificate**
+- 🌱 I’m currently learning **Software Engineering at Moringa School**
 
 - 👯 I’m looking to collaborate on [DevOps-Projects](https://github.com/WeddyNkatha265/DevOps-Projects)
 
