@@ -28,7 +28,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/weddy-nkatha-193614246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/weddy-nkatha-193614246/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/weddy-nkatha-193614246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/weddy-nkatha-193614246" height="30" width="40" /></a>
 <a href="https://kaggle.com/weddynkathamurithi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="weddynkathamurithi" height="30" width="40" /></a>
 </p>
 
