@@ -122,4 +122,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=weddynkatha265&show_icons=true&locale=en" alt="weddynkatha265" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=weddynkatha265&" alt="weddynkatha265" /> </p> 
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/671660b9791f57dd6051cffd?variant=dark" alt="roadmap.sh"/></a>
+
